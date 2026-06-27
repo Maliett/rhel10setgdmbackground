@@ -1,5 +1,7 @@
 # set-gdm-login-background
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 A shell script to set the GDM login-screen background on RHEL 10 / GNOME systems by patching `gnome-shell-theme.gresource` in place.
 
 ## Usage

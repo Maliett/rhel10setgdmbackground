@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-3.0-or-later
 #
 # Set the RHEL/GNOME GDM login-screen background to an image.
 # Usage:
